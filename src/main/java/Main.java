@@ -7,6 +7,7 @@ public class Main {
 
     public static void main(String[] args ){
 
+        // for later -- modify the message so that it's always uppercase A/B lowercase rest of name
         String name;
         Scanner input = new Scanner(System.in);
 
